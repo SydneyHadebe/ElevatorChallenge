@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "29Bij516XPbiOHxqUhuRUUCdPY0QW/S0n+CR4buyQYEZyFX2J9u1DhjRCHD9hZNMTyvQf4hB10f89Ftcwlu9kA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AB0252T\\source\\repos\\ElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://xzadbcc2app2021:8081/repository/baps-nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://xzadbcc2app2021:8081/repository/bapsroa-tri-nuget-group'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://xzadbcc2app2021:8081/repository/baps-nuget-group/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://xzadbcc2app2021:8081/repository/baps-shared-nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

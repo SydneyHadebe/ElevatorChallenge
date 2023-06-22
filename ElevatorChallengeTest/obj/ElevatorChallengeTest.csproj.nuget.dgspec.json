@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AB0252T\\source\\repos\\ElevatorChallenge\\ElevatorChallengeTest\\ElevatorChallengeTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AB0252T\\source\\repos\\ElevatorChallenge\\ElevatorChallengeTest\\ElevatorChallengeTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AB0252T\\source\\repos\\ElevatorChallenge\\ElevatorChallengeTest\\ElevatorChallengeTest.csproj",
+        "projectName": "ElevatorChallengeTest",
+        "projectPath": "C:\\Users\\AB0252T\\source\\repos\\ElevatorChallenge\\ElevatorChallengeTest\\ElevatorChallengeTest.csproj",
+        "packagesPath": "C:\\Users\\AB0252T\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AB0252T\\source\\repos\\ElevatorChallenge\\ElevatorChallengeTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AB0252T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "http://xzadbcc2app2021:8081/repository/baps-nuget-group/": {},
+          "http://xzadbcc2app2021:8081/repository/baps-nuget/": {},
+          "http://xzadbcc2app2021:8081/repository/baps-shared-nuget/": {},
+          "http://xzadbcc2app2021:8081/repository/bapsroa-tri-nuget-group": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\AB0252T\\source\\repos\\ElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.csproj": {
+                "projectPath": "C:\\Users\\AB0252T\\source\\repos\\ElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AB0252T\\source\\repos\\ElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AB0252T\\source\\repos\\ElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.csproj",
+        "projectName": "ElevatorChallenge",
+        "projectPath": "C:\\Users\\AB0252T\\source\\repos\\ElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.csproj",
+        "packagesPath": "C:\\Users\\AB0252T\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AB0252T\\source\\repos\\ElevatorChallenge\\ElevatorChallenge\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AB0252T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "http://xzadbcc2app2021:8081/repository/baps-nuget-group/": {},
+          "http://xzadbcc2app2021:8081/repository/baps-nuget/": {},
+          "http://xzadbcc2app2021:8081/repository/baps-shared-nuget/": {},
+          "http://xzadbcc2app2021:8081/repository/bapsroa-tri-nuget-group": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "dgSpecHash": "GKBZ1IU0LkxETGqOdxPIZ13i8TyVZrwvXttukri5DHIRHXpacH3Y9PyP2auBPDHdrwgUz8C1sMGj4GFyAetSmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AB0252T\\source\\repos\\ElevatorChallenge\\ElevatorChallengeTest\\ElevatorChallengeTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AB0252T\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\diffengine\\11.3.0\\diffengine.11.3.0.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\emptyfiles\\4.4.0\\emptyfiles.4.4.0.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\microsoft.codecoverage\\17.6.2\\microsoft.codecoverage.17.6.2.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.2\\microsoft.net.test.sdk.17.6.2.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.2\\microsoft.testplatform.objectmodel.17.6.2.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.2\\microsoft.testplatform.testhost.17.6.2.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\moq\\4.18.4\\moq.4.18.4.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\mstest.testadapter\\3.0.4\\mstest.testadapter.3.0.4.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\mstest.testframework\\3.0.4\\mstest.testframework.3.0.4.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\shouldly\\4.2.1\\shouldly.4.2.1.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\system.management\\6.0.1\\system.management.6.0.1.nupkg.sha512",
+    "C:\\Users\\AB0252T\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://xzadbcc2app2021:8081/repository/baps-nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://xzadbcc2app2021:8081/repository/bapsroa-tri-nuget-group'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://xzadbcc2app2021:8081/repository/baps-nuget-group/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://xzadbcc2app2021:8081/repository/baps-shared-nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
